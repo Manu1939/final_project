@@ -12,7 +12,7 @@ import javax.swing.JFrame;
 public class AppFrame extends JFrame{
 
     /**
-	 * App Frame class
+	 * App Frame class demo
 	 */
 	private static final long serialVersionUID = 1L;
 	private TitleBar title;
