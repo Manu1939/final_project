@@ -9,7 +9,7 @@ import javax.swing.JPanel;
 public class TitleBar extends JPanel{
 
     /** 
-	 * test
+	 * 
 	 */
 	private static final long serialVersionUID = 1L;
 
