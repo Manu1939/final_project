@@ -8,7 +8,7 @@ import javax.swing.JPanel;
 public class List extends JPanel{
 
     /**
-	 * 
+	 * List 
 	 */
 	private static final long serialVersionUID = 1L;
 
