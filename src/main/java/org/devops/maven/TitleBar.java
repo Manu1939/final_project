@@ -12,7 +12,6 @@ public class TitleBar extends JPanel{
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;
-
 	TitleBar()
     {
         this.setPreferredSize(new Dimension(400,80));
