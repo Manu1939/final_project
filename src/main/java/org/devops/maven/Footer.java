@@ -11,7 +11,7 @@ import javax.swing.border.Border;
 
 public class Footer extends JPanel{
 
-    /** Footer
+    /** Footer Added
 	 *
 	 */
 	private static final long serialVersionUID = 1L;
