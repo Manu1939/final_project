@@ -11,13 +11,13 @@ import javax.swing.border.Border;
 
 public class Footer extends JPanel{
 
-    /**
-	 * 
+    /** Footer Added
+	 *
 	 */
 	private static final long serialVersionUID = 1L;
 	JButton addTask;
     JButton clear;
-
+    
 
     Border emptyBorder = BorderFactory.createEmptyBorder();
 
