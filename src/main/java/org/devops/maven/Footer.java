@@ -12,7 +12,7 @@ import javax.swing.border.Border;
 public class Footer extends JPanel{
 
     /** Footer Added
-	 *
+	 * its for adding task button
 	 */
 	private static final long serialVersionUID = 1L;
 	JButton addTask;
